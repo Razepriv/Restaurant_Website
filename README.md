@@ -2,7 +2,7 @@
 <h1> A Fully Functional Restaurant Website </h1>
 
 
-[Live Preview](https://rainyroof.vercel.app/)
+[Live Preview](https://restaurant-clone-com.netlify.app/)
 
 Don't forget to :star: the repo if you like it :blush:
 
@@ -21,5 +21,3 @@ Don't forget to :star: the repo if you like it :blush:
 ![img 9](img/9.png)
 
 </div>
-
-[![Stargazers repo roster for @FahimFBA/RainyRoof_Restaurant_Website](https://reporoster.com/stars/FahimFBA/RainyRoof_Restaurant_Website)](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/stargazers)
